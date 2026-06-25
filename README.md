@@ -31,7 +31,6 @@ class YamunaDevi:
     location   = "Hyderabad, Telangana, India 📍"
     education  = "B.Sc. Data Science — Osmania University (CGPA: 8.51)"
     email      = "yamunakallakuri@gmail.com"
-    phone      = "(+91) 8247877472"
 
     expertise  = [
         "Generative AI — LLMs, RAG, Prompt Engineering, Agentic AI",
