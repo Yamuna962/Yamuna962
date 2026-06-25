@@ -1,21 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yamuna%20Devi%20Kallakuri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Computer%20Vision%20Developer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yamuna%20Devi%20Kallakuri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Generative+AI+Enthusiast+%E2%9C%A8;LLM+Application+Builder+%F0%9F%94%97;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Agentic+AI+Architect+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Junior+Software+Developer+%F0%9F%92%BB;Generative+AI+%26+LLM+Builder+%F0%9F%A4%96;RAG+%26+Agentic+AI+Enthusiast+%F0%9F%94%97;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Building+AI+for+Real-World+Impact+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yamuna-devi-kallakuri" target="_blank">
+  <a href="https://linkedin.com/in/yamunakallakuri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yamuna@email.com">
+  <a href="mailto:yamunakallakuri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://Yamuna962.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/yamuna-devi" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
@@ -30,59 +27,50 @@
 ```python
 class YamunaDevi:
     name       = "Yamuna Devi Kallakuri"
-    role       = "AI Engineer"
-    location   = "Hyderabad, India 📍"
-    education  = "B.Tech Computer Science (AI Specialization)"
+    role       = "Junior Software Developer @ TechOptima Pvt Ltd"
+    location   = "Hyderabad, Telangana, India 📍"
+    education  = "B.Sc. Data Science — Osmania University (CGPA: 8.51)"
+    email      = "yamunakallakuri@gmail.com"
+    phone      = "(+91) 8247877472"
 
-    focus = [
-        "Generative AI & LLM Applications",
-        "Agentic AI & Multi-Agent Systems",
-        "Computer Vision & Deep Learning",
-        "RAG Pipelines & Vector Databases",
+    expertise  = [
+        "Generative AI — LLMs, RAG, Prompt Engineering, Agentic AI",
+        "Computer Vision — OpenCV, Face Recognition, Object Detection",
+        "Machine Learning & Deep Learning — TensorFlow, PyTorch",
+        "Vector Databases — Milvus, Pinecone, ChromaDB, FAISS",
+        "Mobile & Web — Flutter, Streamlit",
     ]
 
-    currently_learning = [
-        "Multi-Agent Systems  → 75%",
-        "Fine-tuning LLMs     → 60%",
-        "MLOps & LLMOps       → 50%",
-        "Multimodal AI        → 55%",
+    currently_working_on = [
+        "AI Audio Translation (OpenAI Whisper)",
+        "Carbon Emission Analytics Platform",
+        "Sign Language 3D Avatar Toolkit",
+        "Carbon Trading Mobile App (Flutter)",
     ]
 
-    fun_fact = "I build AI that makes a real-world social impact 💡"
+    fun_fact = "I build AI that creates real-world social impact 💡"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Work Experience
 
-**AI / ML**
+### 🏢 TechOptima Pvt Ltd — Hyderabad
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Junior Software Developer** *(Aug 2025 – Apr 2026)*
 
-**LLM & Generative AI**
+- 🎙️ Built an **AI Audio Translation Tool** using OpenAI Whisper for real-time Hindi-to-English transcription
+- 🤟 Designed an **Assistive Communication Toolkit** converting speech/text to 3D Indian Sign Language animations via WebGL avatars
+- 📄 Developed an **AI PDF Chatbot** — upload multiple PDFs and ask contextual questions using a RAG pipeline
+- ⚖️ Engineered a **Paralegal Assistant** with RAG, embeddings & Milvus vector database for legal document retrieval
+- 🌱 Built a **Real-time Carbon Emission Analytics Platform** with OpenCV, live environmental APIs (OpenAQ, Electricity Maps, Climatiq), time-series analysis & Streamlit dashboard
+- 📊 Designed interactive dashboards with **Plotly** for data analysis and reporting
+- 📱 Developed screens for a **Carbon Trading Mobile App** using Flutter & backend APIs
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+**Data Science Intern** *(Apr 2025 – Aug 2025)*
 
-**Cloud & MLOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases & Vector Stores**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+- 🛡️ Developed a **Cyberbullying Detection Chatbot** using tweet datasets & ML for harmful content classification
+- 🔐 Built secure AI chatbots (Healthcare, Legal, Banking) using **Guardrails AI & LLMs**
 
 ---
 
@@ -91,53 +79,96 @@ class YamunaDevi:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤟 Sign Language Avatar</h3>
+      <h3 align="center">🛡️ Cyberbullying Detection</h3>
       <p align="center">
-        Real-time sign language translation using Computer Vision & deep learning. <strong>🥇 1st Place — State AI/ML Hackathon</strong>
+        Intelligent system to detect cyberbullying in digital channels. Analyzes text and assigns severity scores using pre-trained ML models.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">👶 Missing Children ID System</h3>
+      <h3 align="center">👶 Missing Child Identification</h3>
       <p align="center">
-        AI-powered facial recognition system to identify missing children. Recognized by local law enforcement. 💡 Social Impact Award
+        Deep learning facial recognition system using CNN (VGG-Face) — achieved <strong>99.41% accuracy</strong>. Public portal with real-time face matching.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/DeepFace-FF6B35?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">⚖️ Legal RAG Assistant</h3>
+      <h3 align="center">🎙️ Audio Translator (Whisper)</h3>
       <p align="center">
-        RAG pipeline for intelligent legal document retrieval. Co-authored published AI research paper on the system.
+        AI-powered Streamlit app for real-time Hindi speech transcription and English translation using OpenAI Whisper.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 Multi-Agent AI Framework</h3>
+      <h3 align="center">⚖️ PDF RAG Assistant</h3>
       <p align="center">
-        Orchestrated multi-agent system for autonomous task planning and execution using LLMs.
+        PDF-based RAG Chatbot — upload any PDF and ask questions. Built with LangChain, Ollama, ChromaDB & Streamlit.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Generative AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-FF4B4B?style=for-the-badge&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/Evidently_AI-00C853?style=for-the-badge&logoColor=white)
+
+**AI / ML & Computer Vision**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Vector Databases**
+
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+
+**Cloud, Tools & Databases**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Visualization**
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B8CC?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -157,33 +188,30 @@ class YamunaDevi:
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-| 🥇 | **AI Hackathon Winner** — 1st place in State-level AI/ML Hackathon (Sign Language Avatar) |
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| 🎓 B.Sc. Data Science | Ideal Degree College for Women, Osmania University, Hyderabad | 2022 – 2025 | CGPA: **8.51** |
+| 📘 Intermediate (MPC) | Sri Chaitanya Junior College, Rajahmundry | 2020 – 2022 | **82%** |
+
+---
+
+## 🏆 Achievements & Certifications
+
+| | |
 |---|---|
-| 📝 | **Published AI Research** — Co-authored paper on RAG systems for legal document retrieval |
-| 🎓 | **Top Graduate** — Outstanding performance in B.Tech CS with AI specialization |
-| 💡 | **Social Impact Award** — Missing Children ID System recognized by law enforcement |
+| 🥇 | **Recognized** for strong performance in employment skills by **Mahindra Pride Classroom** of Naandi Foundation |
+| 🛡️ | **Certification** — Cyberbullying Detection using Machine Learning Project |
+| 🤝 | **Certification** — Magic Bus: Managing Self at Work (Communication, Adaptability, Critical Thinking) |
+| 💼 | **Certification** — Naandi Foundation Employability Skills Training (2024–2025) |
 
 ---
 
-## 📜 Certifications
+## 🌐 Languages
 
-![Google Cloud](https://img.shields.io/badge/Generative_AI_Fundamentals-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/Deep_Learning_Specialization-DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Machine_Learning-Amazon-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain_for_LLM_Apps-DeepLearning.AI-1C3C3C?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision_Bootcamp-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
-![IBM](https://img.shields.io/badge/Python_for_Data_Science-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-
----
-
-## 🌍 Open Source & Community
-
-- 🔗 **LangChain Community** — Bug fixes & RAG pipeline examples
-- 📦 **AI Starter Templates** — Published reusable LLM app templates on GitHub
-- 🤗 **Hugging Face Spaces** — Shared CV & NLP demo spaces
-- 📝 **Technical Blogs** — AI tutorials on Medium & Dev.to
+![English](https://img.shields.io/badge/English-Fluent-00D4FF?style=for-the-badge)
+![Telugu](https://img.shields.io/badge/Telugu-Native-8B5CF6?style=for-the-badge)
 
 ---
 
@@ -193,6 +221,6 @@ class YamunaDevi:
 
 ✨ **Open to exciting AI/ML opportunities — let's build something impactful together!**
 
-📧 yamuna@email.com &nbsp;·&nbsp; 📍 Hyderabad, India &nbsp;·&nbsp; Available for full-time & freelance
+📧 yamunakallakuri@gmail.com &nbsp;·&nbsp; 📍 Hyderabad, Telangana, India &nbsp;·&nbsp;
 
 </div>
